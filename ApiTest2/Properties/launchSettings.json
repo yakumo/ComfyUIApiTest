@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ApiTest2": {
+      "commandName": "Project",
+      "commandLineArgs": "-o D:\\Datas\\Tmp"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ApiTest1": {
+      "commandName": "Project",
+      "commandLineArgs": "-o test1"
+    }
+  }
+}
